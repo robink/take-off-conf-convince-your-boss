@@ -1,5 +1,6 @@
-
 Lille accueillera de nouveau, les 30 et 31 janvier prochains à EuraTechnologies, l’évènement Take Off, un festival international de code qui réunira dans la capitale des Flandres plus de 250 inventeurs et créateurs du nouveau monde numérique.  
+
+Lille est une métropole dynamique à 50 minutes de Paris (Gare du Nord), 30 min de Bruxelles (Gare du Midi) et 90 minutes de Londres (St Pancras). Les hôtels accessibles et le centre historique permettent de concilier un bon moment touristique avec une conférence d'exception !
 
 Au programme cette année des sujets axés autour de **10 thèmes principaux** (autant de bonnes raisons de venir) tels que: 
 
