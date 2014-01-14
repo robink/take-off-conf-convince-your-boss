@@ -2,7 +2,7 @@ Lille accueillera de nouveau, les 30 et 31 janvier prochains à EuraTechnologies
 
 Au programme cette année des sujets axés autour de 10 thèmes principaux (autant de bonnes raisons de venir) tels que:
 
-- "Le web, what's next?" Robin Berjon, editeur de la spécification de HTML5 (W3C) abordera les Web Components, l'une des spécifications majeures à suivre. Michael Wavra (Twilio) nous montrera hacks réalisables avec des objets connectés.
+- "Le web, what's next?" Robin Berjon, editeur de la spécification de HTML5 (W3C) abordera les Web Components, l'une des spécifications majeures à suivre. Michael Wavra (Twilio) nous montrera les hacks réalisables avec des objets connectés.
 
 - Des "Experiments": Designer une application pour des enfants, faire de la visualisation audio avec Go par Francesc Campoy Flores (Google). Hacker du NFC et du Bluetooth par Luca Sale (Blackberry)
 
